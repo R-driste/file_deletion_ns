@@ -1,0 +1,3 @@
+([('TranscriptionHighlight',
+   '/Users/dristiroy/DELETE_APP_NS/file_deletion_ns/dist/TranscriptionHighlight',
+   'EXECUTABLE')],)
