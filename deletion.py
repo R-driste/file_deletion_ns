@@ -5,7 +5,7 @@ from itertools import groupby
 import shutil
 from datetime import datetime
 
-# Main window
+#Main window
 root = tk.Tk()
 root.title("Transcription Highlight Widget")
 root.geometry("400x400")
